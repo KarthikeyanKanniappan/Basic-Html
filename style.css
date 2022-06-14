@@ -1,0 +1,11 @@
+.container {
+  height: 100rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(#ff6b6b, #556270);
+}
+.hui {
+  font-style: italic;
+  color: azure;
+}
